@@ -1,1 +1,1 @@
-echo "here we are testing paramiters"
+echo "$code"
